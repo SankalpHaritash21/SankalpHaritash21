@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalp Haritash </h1>
-# 💫 About Me:<br>
+ 💫 About Me:<br>
 I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<br> 💬 Ask me about **Java, Python, MySQL, Web Development**<br> 📫 How to reach me **sanklpkaushik21@gmail.com**<br> ⚡ Fun fact **I am Funny**
 add Right Gif Image
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
