@@ -1,7 +1,9 @@
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQF8P4kEDzKOyg/profile-displaybackgroundimage-shrink_200_800/0/1686020953057?e=2147483647&v=beta&t=TIbiwbnO_IgUhvZZ4e_ItTzJp_v8N0d4BW_LYPPtnO4)
+
 <h1 align="center">Hi 👋, I'm Sankalp Haritash </h1>
  💫 About Me:<br>
 I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<br> 💬 Ask me about **Java, Python, MySQL, Web Development**<br> 📫 How to reach me **sanklpkaushik21@gmail.com**<br> ⚡ Fun fact **I am Funny**
-add Right Gif Image
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
