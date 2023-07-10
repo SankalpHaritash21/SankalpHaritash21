@@ -23,3 +23,11 @@ I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<b
 [![](https://visitcount.itsvg.in/api?id=SankalpHaritash21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!--Coding platform-->
+
+## ‍💻 Coding Profile:
+
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sanklpkaushik21/)
+
