@@ -45,11 +45,23 @@ I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<b
 [![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 
 
-# 📊 GitHub Stats:
+# 📊 Status
+<div align="center">
+<p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=SankalpHaritash21&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="SankalpHaritash21" /></p>
+</div>
 
-<div align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpharitash21&" alt="sankalpharitash21" /></div>
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpharitash21&" alt="sankalpharitash21" />
+</div>
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=SankalpHaritash21&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+<div align="center">
+ <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=SankalpHaritash21&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+
+ 
+## 😊 Profile Summary
+ <div align="center">
+ <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankalpHaritash21&theme=monokai" alt="SankalpHaritash21" style="max-width: 100%" width="100%" /></p>
+</div>
 
 
 ## 📖 Educations:
