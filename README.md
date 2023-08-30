@@ -1,6 +1,15 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQF8P4kEDzKOyg/profile-displaybackgroundimage-shrink_200_800/0/1686020953057?e=2147483647&v=beta&t=TIbiwbnO_IgUhvZZ4e_ItTzJp_v8N0d4BW_LYPPtnO4)
 
+
+
 <h1 align="center">Hi 👋, I'm Sankalp Haritash </h1>
+
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+I+Sankalp+Haritash;A+Full+Stack+Web+Developer+;Loves+to+learn+new+stuff" alt="Typing SVG" /></a>
+</p>
+
+
  💫 About Me:<br>
 I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<br>👯 I’m looking to collaborate on **Open source Project.**<br>💬 Ask me about **Java, Python, MySQL, Web Development**<br> 📫 How to reach me **sanklpkaushik21@gmail.com**<br> ⚡ Fun fact **I am Funny**
 
