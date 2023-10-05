@@ -23,6 +23,12 @@ I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<b
 ## ‍💻 Coding Profile:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sanklpkaushik21/)
+
+
+## 📖 Educations:
+[![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Sankalp_Haritash)
+
+
  
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -63,8 +69,5 @@ I am Currently a Student<br>🌱 I’m currently learning **Machine learning**<b
  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SankalpHaritash21&theme=monokai" alt="SankalpHaritash21" style="max-width: 100%" width="100%" /></p>
 </div>
 
-
-## 📖 Educations:
-[![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Sankalp_Haritash)
 ---
 [![](https://visitcount.itsvg.in/api?id=SankalpHaritash21&icon=0&color=0)](https://visitcount.itsvg.in)
