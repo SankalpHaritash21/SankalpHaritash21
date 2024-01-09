@@ -35,6 +35,10 @@ I am Currently a Student<br>
 ## 📖 Educations:
 [![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Sankalp_Haritash)
 
+## Badges:
+
+[![An image of @sankalpharitash21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sankalpharitash21)](https://holopin.io/@sankalpharitash21)
+
 
  
 # 💻 Tech Stack:
