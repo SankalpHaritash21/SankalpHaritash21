@@ -10,7 +10,7 @@
 </p>
 
 
- 💫 About Me:<br>
+## 💫 About Me:<br>
 I am Currently a Student<br>
 🏫 I’m currently learning **Next js by doing Project**<br>
 🌱 I’m learning **Machine learning**<br>
