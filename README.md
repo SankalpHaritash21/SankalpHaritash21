@@ -29,7 +29,7 @@ I am Currently a Student<br>
 <!--Coding platform-->
 ## ‍💻 Coding Profile:
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/SankalpKaushik21/)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sanklpkaushik21/)
 
 
 ## 📖 Educations:
