@@ -82,3 +82,9 @@ I am Currently a Student<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SankalpHaritash21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## ❤ Views and Followers
+<a href="https://github.com/SankalpHaritash21/SankalpHaritash21">
+    <img src="https://komarev.com/ghpvc/?username=SankalpHaritash21">
+</a>
+<a href="https://github.com/SankalpHaritash21?tab=followers"><img src="https://img.shields.io/github/followers/SankalpHaritash21?label=Followers&style=social" alt="GitHub Badge"></a>
