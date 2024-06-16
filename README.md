@@ -14,7 +14,7 @@
 I am Currently a Student<br>
 🏫 I’m currently learning **Next js by doing Project**<br>
 🌱 I’m learning **Machine learning**<br>
-💻 All of my projects are available at **[My Portfolio](https://sankalp-haritash.vercel.app/)**<br>
+💻 All of my projects are available at **[My Portfolio](https://linktr.ee/SankalpHaritash)**<br>
 👯 I’m looking to collaborate on **Open source Project.**<br>
 💬 Ask me about **Java, Python, MySQL, Web Development**<br>
 📫 How to reach me **sanklpkaushik21@gmail.com**<br>
